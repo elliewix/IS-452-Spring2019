@@ -6,11 +6,13 @@ This is the repo for the IS452 A/AO class materials that I can make public, but 
 
 I will add the completed (or in progress toward being completed) notebooks as links in the schedule.  For my own reference I've added a folder with the spring notebooks.
 
+Jupyter notebooks should render nicely inside of github, but you'll need to download and open any powerpoint slides.
+
 ## Schedule
 
 | Week   | Topic                      | Readings                               | Homework schedule and errata                            |
 |--------|----------------------------|----------------------------------------|---------------------------------------------------------|
-| 1      | Intro and installation     | (R) Z: 1-2  <br>(O) P4E: 1                  | Syllabus quiz                                           |
+| 1      | [Intro and installation](Lectures/Week-01-Intro.ipynb)<br>[Slides on syllabus and learning tech](Lectures/IS452Fall2017Week01.pptx)     | (R) Z: 1-2  <br>(O) P4E: 1                  | Syllabus quiz                                           |
 | 2      | Basic programs and looping | (R) Z: 2  <br>(O) P4E: 2.1 – 2.6; 5.6 – 5.7 | Chapter 2 quiz  <br>HW01                                     |
 | 3      | Numbers and strings        | (R) Z: 3; 5.1-5.2  <br>(O) P4E: 6           | Chapter 3 quiz  <br>HW02                                     |
 | 4      | Lists and slices           | (R) Z: 5.3-5.5; 11.2  <br>(O) P4E: 6, 8     | Chapter 5A quiz  <br>HW03 Python vs Java Essay due           |
