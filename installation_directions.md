@@ -27,18 +27,18 @@ From here:  [https://www.continuum.io/downloads](https://www.continuum.io/downlo
 
 ![](installation_pics/1-anacondaver.png)
 
-Download the Graphical Installer for Python 3.6 for your operating system.  This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.
+Download the Graphical Installer for Python 3.6 for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.6. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.
 
 Anaconda will install Python and a lot of other background utilities that we’ll be using.  Anaconda isn’t an application that you’ll be opening and directly interacting with, but you will still be using what it installed.
 
 * Mac users:  all the defaults should be fine, continue on to the testing.
-* Windows users: you need to check the option to add python to the path, seen in the screen shot below
+* Windows users: you need to check the option to add Python to the path, seen in the screen shot below. Don't worry about the red warning text -- this checkbox is correct.
 
 ![](installation_pics/2-checkthatbox.png)
 
 ### Give it a test
 
-After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using anaconda the entire class, but it’ll be somewhat invisible to you.
+After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using Anaconda the entire class, but it’ll be somewhat invisible to you.
 
 ### Step 1: Open your command line
 
@@ -49,12 +49,12 @@ Mac users:  open your Terminal application. Either search via spotlight for ‘t
 ### Step 2:  Attempt to launch Python
 
 Mac/Windows: Within your command line application, type in ‘python’ (without quotes) and press return.  
-Windows users:  you should not get an error that it doesn’t know what Python is.
+Windows users:  you should *not* get an error that it doesn’t know what Python is.
 Mac users:  it should state it is Python 3.6 and not Python 2.7.
 
-You should see something like this if it worked.  Note that at the top it says “Python 3.6.1” and not “Python 2.7…”  Your installation may have a different third number, e.g. “Python 3.6.2” or something else, and that’s fine.  So long as it starts with 3.6 we’re good. 
+You should see something like this if it worked.  Note that at the top it says “Python 3.6.1” and not “Python 2.7…”  Your installation may have a different third number, e.g. “Python 3.6.2” or something else, and that’s fine.  So long as it starts with 3.6 we’re good.
 
-Just close and quit the program after this.  Everything has worked and you can move on to installing PyCharm Education edition. 
+Just close and quit the program after this.  Everything has worked and you can move on to installing PyCharm Education edition.
 
 Mac:
 ![](installation_pics/3-terminaltest.png)
@@ -98,12 +98,12 @@ Don’t worry, you don’t need to know python yet. We’re just testing to see 
 
 1. Right click on the name of your project on the left.  Select New -> Python file.
 	* ![](installation_pics/8-newpythonfile.png)
-2. Name is something like ‘testing’. 
+2. Name is something like ‘testing’.
 	* ![](installation_pics/9-nameit.png)
 3. You’ll now see an empty file in the main part of the PyCharm window.
 4. Type in the following into that screen:  `print(“Hello world”)`
 	* ![](installation_pics/10-makecodego.png)
-5. A green “play” arrow should appear next to line 1 next to that text.  It may take a moment or two for the green button to appear.  That is completely normal and just PyCharm connecting to your anaconda installation.
+5. A green “play” arrow should appear next to line 1 next to that text.  It may take a minute or two for the green button to appear.  That is completely normal and just PyCharm connecting to your anaconda installation.
 6. Click that green button!
 7. A new panel at the bottom should appear, with text that starts with “Hello world”. “Process finished with exit code 0” means that everything worked and is not something to worry about.  Looks weird, though, I know.
 	* ![](installation_pics/11-output.png)
@@ -113,5 +113,3 @@ Don’t worry, you don’t need to know python yet. We’re just testing to see 
 10.  Try to run the code.
 11.  You should see an error!
 	 * ![](installation_pics/13-erroroutput.png)
-
-
