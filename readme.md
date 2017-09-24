@@ -16,7 +16,7 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 2      | [Basic programs and looping](Lectures/Week-02-ExpressionsAndLoops.ipynb) | (R) Z: 2  <br>(O) P4E: 2.1 – 2.6; 5.6 – 5.7 | Chapter 2 quiz  <br>HW01                                     |
 | 3      | [Numbers and strings, more accumulators](Lectures/Week-03-Accumulators.ipynb)        | (R) Z: 3; 5.1-5.2  <br>(O) P4E: 6           | Chapter 3 quiz  <br>HW02                                     |
 | 4      | [Lists and slices, and sub accumulators](Lectures/Week-04-ListAllTheThings.ipynb)           | (R) Z: 5.3-5.5; 11.2  <br>(O) P4E: 6, 8     | Chapter 5A quiz  <br>HW03 Python vs Java Essay due           |
-| 5      | Files                      | (R) Z: 5.9-end  <br>(O) P4E: 7              | Chapter 5B quiz  <br>HW04                                    |
+| 5      | [Files](Lectures/Week-05-ReadingFiles.ipynb)                      | (R) Z: 5.9-end  <br>(O) P4E: 7              | Chapter 5B quiz  <br>HW04                                    |
 | 6      | Functions                  | (R) Z: 6  <br>(O) P4E: 4                    | Chapter 6 quiz  <br>HW05                                     |
 | 7      | Decision Structures A      | (R) Z: 7.1-7.2  <br>(O) P4E: 3              | Chapter 7A quiz  <br>HW06                                    |
 | 8      | Decision Structures B      | (R) Z: 7.3-end  <br>(O) P4E: 3              | Chapter 7B quiz  <br>HW07 Midterm (Dracula) check-in         |
