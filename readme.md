@@ -19,7 +19,7 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 5      | [Files](Lectures/Week-05-ReadingFiles.ipynb)                      | (R) Z: 5.9-end  <br>(O) P4E: 7              | Chapter 5B quiz  <br>HW04                                    |
 | 6      |[Functions](Lectures/Week-06-Functions.ipynb)                  | (R) Z: 6  <br>(O) P4E: 4                    | Chapter 6 quiz  <br>HW05                                     |
 | 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)      | (R) Z: 7.1-7.2  <br>(O) P4E: 3              | Chapter 7A quiz  <br>HW06                                    |
-| 8      | Decision Structures B      | (R) Z: 7.3-end  <br>(O) P4E: 3              | Chapter 7B quiz  <br>HW07 Midterm (Dracula) check-in         |
+| 8      | [Decision Structures B](Lectures/Week08-BooleanRedo.ipynb)      | (R) Z: 7.3-end  <br>(O) P4E: 3              | Chapter 7B quiz  <br>HW07 Midterm (Dracula) check-in         |
 | 9      | More loops                 | (R) Z: 8  <br>(O) P4E: 5                    | Chapter 8 quiz  <br>HW08 Final project proposal due          |
 | 10     | Data Collections           | (R) Z: 11.1-11.3; 11.6-end  <br>(O) P4E: 9  | Chapter 11 quiz HW09 <br>Midterm project due              |
 | 11     | SQL                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
