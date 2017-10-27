@@ -20,8 +20,8 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 6      |[Functions](Lectures/Week-06-Functions.ipynb)                  | (R) Z: 6  <br>(O) P4E: 4                    | Chapter 6 quiz  <br>HW05                                     |
 | 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)      | (R) Z: 7.1-7.2  <br>(O) P4E: 3              | Chapter 7A quiz  <br>HW06                                    |
 | 8      | [Decision Structures B](Lectures/Week08-BooleanRedo.ipynb)      | (R) Z: 7.3-end  <br>(O) P4E: 3              | Chapter 7B quiz  <br>HW07 Midterm (Dracula) check-in         |
-| 9      | [More loops](Week09-While&sentinelloops.ipynb)                 | (R) Z: 8  <br>(O) P4E: 5                    | Chapter 8 quiz  <br>HW08 Final project proposal due          |
-| 10     | [Data Collections](Week10-Dictionaries.ipynb)           | (R) Z: 11.1-11.3; 11.6-end  <br>(O) P4E: 9  | Chapter 11 quiz HW09 <br>Midterm project due              |
+| 9      | [More loops](Lectures/Week09-While&sentinelloops.ipynb)                 | (R) Z: 8  <br>(O) P4E: 5                    | Chapter 8 quiz  <br>HW08 Final project proposal due          |
+| 10     | [Data Collections](Lectures/Week10-Dictionaries.ipynb)           | (R) Z: 11.1-11.3; 11.6-end  <br>(O) P4E: 9  | Chapter 11 quiz HW09 <br>Midterm project due              |
 | 11     | SQL                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
 | 12     | XPath                      | (R) W3C links & my lesson              | XPath A quiz  <br>HW11  <br>Python vs Java essay due              |
 | 13     | Break                      |                                        | Thanksgiving Break Bash extra credit due                |
