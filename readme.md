@@ -21,9 +21,9 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)      | (R) Z: 7.1-7.2  <br>(O) P4E: 3              | Chapter 7A quiz  <br>HW06                                    |
 | 8      | [Decision Structures B](Lectures/Week08-BooleanRedo.ipynb)      | (R) Z: 7.3-end  <br>(O) P4E: 3              | Chapter 7B quiz  <br>HW07 Midterm (Dracula) check-in         |
 | 9      | [More loops](Lectures/Week09-While&sentinelloops.ipynb)                 | (R) Z: 8  <br>(O) P4E: 5                    | Chapter 8 quiz  <br>HW08 Final project proposal due          |
-| 10     | [Data Collections](Lectures/Week10-Dictionaries.ipynb)           | (R) Z: 11.1-11.3; 11.6-end  <br>(O) P4E: 9  | Chapter 11 quiz HW09 <br>Midterm project due              |
-| 11     | SQL                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
-| 12     | XPath                      | (R) W3C links & my lesson              | XPath A quiz  <br>HW11  <br>Python vs Java essay due              |
+| 10     | [Data Collections](Lectures/Week-10-Dictionaries.ipynb)           | (R) Z: 11.1-11.3; 11.6-end  <br>(O) P4E: 9  | Chapter 11 quiz HW09 <br>Midterm project due              |
+| 11     | [SQL](Lectures/Week-11-SQL.ipynb)                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
+| 12     | [XPath](Lectures/Week-12-XPath-A.ipynb)                      | (R) W3C links & my lesson              | XPath A quiz  <br>HW11  <br>Python vs Java essay due              |
 | 13     | Break                      |                                        | Thanksgiving Break Bash extra credit due                |
 | 14     | Processing XML             | (R) My lesson notes                    | XPath B quiz  <br>HW12  <br>Final project midpoint check-in due   |
 | 15     | Regular expressions        | (R) My lesson notes & TBD              | RegEx quiz  <br>HW13  <br>Turtle graphics essay due               |
