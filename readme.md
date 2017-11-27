@@ -25,7 +25,7 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 11     | [SQL](Lectures/Week-11-SQL.ipynb)                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
 | 12     | [XPath](Lectures/Week-12-XPath-A.ipynb)                      | (R) W3C links & my lesson              | XPath A quiz  <br>HW11  <br>Python vs Java essay due              |
 | 13     | Break                      |                                        | Thanksgiving Break Bash extra credit due                |
-| 14     | Processing XML             | (R) My lesson notes                    | XPath B quiz  <br>HW12  <br>Final project midpoint check-in due   |
+| 14     | [Processing XML](Lectures/Week-13-XPath-B.ipynb)             | (R) My lesson notes                    | XPath B quiz  <br>HW12  <br>Final project midpoint check-in due   |
 | 15     | Regular expressions        | (R) My lesson notes & TBD              | RegEx quiz  <br>HW13  <br>Turtle graphics essay due               |
 | 16     | Wrap up                    |                                        | Last class!                                             |
 | Finals |                            |                                        | Final project due near the end of finals week  date TBD |
