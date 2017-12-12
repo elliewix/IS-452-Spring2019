@@ -1,5 +1,9 @@
 # A public repo for the my Fall 2017 IS452 lecture notes
 
+## Status
+
+This is now complete and will no longer be added to.  This repo will now be the basis for the Spring 2018 semester.
+
 ## About
 
 This is the repo for the IS452 A/AO class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  The spring 2017 repo can be found [here](https://github.com/elliewix/LIS452-Spring2017Lectures).  
