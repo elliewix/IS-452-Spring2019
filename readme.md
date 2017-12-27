@@ -16,25 +16,25 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 
 ## Schedule
 
-| Week   | Topic                              |
-|--------|------------------------------------|
-| 1      | Intro                              |
-| 2      | Basic Programming                  |
-| 3      | Numbers, Strings, and Accumulators |
-| 4      | Lists and subaccumulators          |
-| 5      | Functions                          |
-| 6      | Functions                          |
-| 7      | Decision Structures B              |
-| 8      | Decision Structures B              |
-| 9      | While loops                        |
-| 10     | Spring Break (No class!            |
-| 11     | Dictionaries                       |
-| 12     | SQL                                |
-| 13     | XPath A                            |
-| 14     | XPath B                            |
-| 15     | Regular Expressions                |
-| 16     | Wrap up                            |
-| Finals | No Class                           |
+| Week   | Topic                              | Sp 18 review status |
+|--------|------------------------------------| -------------------- |
+| 1      | [Intro](Lectures/Week-01-Intro.ipynb)                              | No |
+| 2      | [Basic Programming and Loops](Lectures/Week-02-ExpressionsAndLoops.ipynb)        | No |
+| 3      | [Numbers, Strings, and Accumulators](Lectures/Week-03-Accumulators.ipynb) | No |
+| 4      | [Lists and slides](Lectures/Week-04-ListAllTheThings.ipynb)                   | No |
+| 5      | [Files](Lectures/Week-05-ReadingFiles.ipynb)                              | No |
+| 6      | [Functions](Lectures/Week-06-Functions.ipynb)                          | No |
+| 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)              | No |
+| 8      | [Decision Structures B](Lectures/Week-08-BooleanRedo.ipynb)              | No |
+| 9      | [While loops](Lectures/Week-09-While&sentinelloops.ipynb)                        | No |
+| 10     | Spring Break (No class!)               | - |
+| 11     | [Dictionaries](Lectures/Week-10-Dictionaries.ipynb)                       | No |
+| 12     | [SQL](Lectures/Week-11-SQL.ipynb)                                | No |
+| 13     | [XPath A](Lectures/Week-12-XPath-A.ipynb)                            | No |
+| 14     | [XPath B](Lectures/Week-13-XPath-B.ipynb)                            | No |
+| 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | No |
+| 16     | Wrap up (we will have class)           | - |
+| Finals | No Class                               | - |
 
 
 ## Previous RUns
