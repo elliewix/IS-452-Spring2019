@@ -4,7 +4,7 @@ A public repo for the my Spring 2018 IS452 lecture notes
 
 ## Status
 
-This was imported from the Fall and the content will be reviewed before class.  Right now, the schedule has not been set.
+This was imported from the Fall and the content will be reviewed before class.
 
 ## About
 
