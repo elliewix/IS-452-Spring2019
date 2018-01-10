@@ -14,6 +14,10 @@ I will add the completed (or in progress toward being completed) notebooks as li
 
 Jupyter notebooks should render nicely inside of github, but you'll need to download and open any powerpoint slides.
 
+## Syllabus
+
+The syllabus for class is also housed in this repository.  Here: [syllabus.md](syllabus.md)
+
 ## Schedule
 
 | Week   | Topic                              | Sp 18 review status |
