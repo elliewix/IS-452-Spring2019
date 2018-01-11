@@ -10,6 +10,34 @@
 
 This course covers the common data and document processing constructs and programming concepts used in library and information science. The history, strengths and weaknesses of the techniques are evaluated in the context of our discipline. These constructs and techniques form the basis of applications in areas such as bibliographic records management, full text management and multimedia. No prior programming background is assumed.  The first half of the course will focus on programming essentials in Python, and the second half will have us explore other applications and how to integrate the fundamentals to solve more complex problems.
 
+## Informal learning goals
+
+The following are more 'educational wins' rather than formal learning goals.  Of course I hope that you learn how to program in this class, but not everyone taking the course wants to program after taking the class.  So why is this still a valuable class for you to take?  Read on.
+
+### Minimal Wins
+
+* Evaluate programming book and resource searches and/or bookstore selections
+* Understand some memes you didn’t before
+* Run a reference interview for a patron who comes to you wanting to learn how to program
+* Critically evaluate or write a reality-based technical job description
+* Speak confidently about technical concepts and tools in consultations or job interviews
+
+### Moderate Wins
+
+* Hold stronger & more productive conversations with developers
+* Act as a bridge between programmers and non-programmers (this is a false binary, but I'll deal with it for the sake of brevity)
+* Feel more confident to engage with developers and other IT staff with technical jargon and detail
+* Detect vendor hand waving and other crap
+* Evaluate the usefulness and applicability of potential technical tools (e.g. an open source command line tool) 
+
+### Big Wins
+
+* Identify a programming problem and take steps toward writing a program to solve it
+* Make use of more technical tools, or technical features of tools you currently use (e.g. SQL in Access, RegEx in text editors, etc.)
+* Continue self study of programming
+* Succeed in further programming coursework
+* Do some coding!
+
 ## Class Time, Office Hours, and Lab Time
 
 * Regular class times: 
