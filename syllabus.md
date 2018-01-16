@@ -42,9 +42,9 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * AG and AO students are welcome to both sections with notice
-  * AG: 9:00am-11:50pm Wednesdays in 12 Information Science Building
+  * AG: 9:00am-11:50pm Wednesdays in 12 Information Science Building, 11-11:50 will be a mandatory lab time
   * AO: 5:30-7:30pm Tuesdays online in BBC (AG students will need to request a link)
-  * (Optional) Lab/office hours:
+  * (Optional) Lab/office hours open to AG and AO:
 * 7:30-8:30pm Tuesdays online in the class session room (check the class moodle page for the link, this is different than the BBC drop in room)
   * Look for the IS452 break out room (but I might be in a private break out room with another student, so look around if you don’t see me). 
   * The Tuesday evening ONLINE office hours from 7:30-8:30 (the hour directly after the AO class) will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room.
