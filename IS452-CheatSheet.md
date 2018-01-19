@@ -4,6 +4,39 @@ This is the first time through for this document, so expect it to change a bit a
 
 # Data Types
 
+## Numbers
+
+You type in numbers without anything special.  A number just hanging out on its own will be considered as a numerical data type.
+
+### Integers or `int`
+
+There are whole numbers that may be negative.  Examples:  `-5`, `0`' `1000000`
+
+All the normal math operators work on these.
+
+### Floating point numbers or `float`
+
+These are numbers with a decimal value.  This value may be `.0` because you have a whole number, but it will still be a float.  Examples:  `-194.02380`, `0.38940`, and `9.0`
+
+## Strings
+
+These are collections of charecter content.  I'm not using letters here because you can mave much more than just letters.  White space, punctuation, numbers, or anything else that could be considered part of text.  Think of these as "things that can be typed in on a kepboard".  You may have to search around to find them, but they could be typed in or copy/pasted.
+
+You use quotes to state that content is a string.  You can use either single (`'`) or double (`"`) quotes for this.  It doesn't matter which one, so long as they match on either side.
+
+Example:  `print("Hello!")` and `print('Hello!')` will produce the same output:  `Hello!`
+
+You may also see triple quote (`"""`) strings, which are multi-line strings.  These allow you to have hard retuns (new lines) in your text.  You can use either `'''` or `"""`, but they have to match on either side.  You can use `/n` in any string to indicate a newline character, but triple quote strings allow you type them in or copy/paste text with the rendered newlines inside your script. 
+
+Example:
+
+``` text
+"""I am
+on many
+lines of text
+"""
+```
+
 # For loops
 
 ## Do something an arbitrary number of times.
