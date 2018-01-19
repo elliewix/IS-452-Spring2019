@@ -30,11 +30,18 @@ You may also see triple quote (`"""`) strings, which are multi-line strings.  Th
 
 Example:
 
-``` text
-"""I am
+``` python
+text = """I am
 on many
 lines of text
 """
+print(text)
+```
+Output:
+``` text
+I am
+on many
+lines of text
 ```
 
 # For loops
