@@ -132,14 +132,38 @@ Important points:
     * numbers won't work. You need to use `range(n)` to generate a series of numbers
     * lists will unpack to the individual elements inside, which means you may have different data types for the iterable variable, if you have a list with multiple data types within it.
 
-
 # Strings
 
 ## Slicing
 
+Index positions will always start at 0.  When you want to slice a string, you'll be yanking out chunks of the text. Empty strings are represented by `""` with a length of 0, but will not have any index positions.
+
+You can: 
+
+* get a single character out:
+  * `string[stop]`
+* get a subset of adjacent characters:
+  `string[start:stop]`
+* get a subset of characters, skipping some (the step):
+  * `string[start:stop:step]`
+
+* Start: always inclusive
+* Stop:  always exclusive
+* Step:  count how many steps you want to go each time
+
 ## Looping
 
+Strings will unpack character by character.  Each of these characters will be another string.
+
 ## Essential methods
+
+String methods will always return back a new string for you.
+
+* `string.split()` when left empty will get rid of all white space inside of the string and give you back a list of non-space characters
+* `string.strip()` removes all the white space on the left and right sides.  Related are `rstrip()` and `lstrip()`.
+* `string.lower()` lower case the string
+* `string.join(sequence)` will join the elements of a sequence into a new string
+* `string.replace(current_character, new_character)` will replace the current character with the new character.
 
 # Lists
 
