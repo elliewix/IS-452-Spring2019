@@ -234,3 +234,18 @@ But you can use other methods to extract other stuff out.
 
 * yourdict.keys() gives you a dict_key (list like) object with all the keys.
 * yourdict.values() gives you a dict_values (list like) object with all the values.
+* yourdict.items() gives you a dict_items (list like) object with all the key, value pairs as len 2 tuples (key, value)
+
+Important to remember that there is no order to dictionaries (some of this is changing but, as documented, it's experimental and shouldn't be depended on.
+
+## Extracting data
+
+`[]` are used after the dict variable to extract data using a key.  This is not slicing!  You provide a key in there (verbatim to how it appears in the data) and it will return the value.
+
+You can reconstruct the dictionary with only the keys (because you can look up the value), but you can't reconstruct it with only the values (because values can be repeated, there's no direct way to look up a key with a given value. It can be done, but it's a really messy process).
+
+For example:
+
+`myd['thing1']` will return `[1, 2]`
+
+You can store keys in variables and use them in this syntax.  But again, what's in there must be verbatim and a data type match for what the key is.
