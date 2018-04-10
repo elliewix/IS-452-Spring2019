@@ -167,8 +167,70 @@ String methods will always return back a new string for you.
 
 # Lists
 
+Use `[]` to indicate a list.
+
+colors = `['red', 'green', 'blue']`
+
+You can hold a mix of any object in a list, but be careful about holding a mix of data types in there!  It can make iteration weird and annoying.
+
+You can, and will often want to, hold a list of other lists.
+
 ## Slicing
+
+Slicing uses the `[start:stop:step]` notation shared with strings.
 
 ## Looping
 
+Lists will iterate over elements inside that list.  The iterable variable will become the data type and value of that list.  This means that if you've got a mix of data types you'll need to account for that in what you are doing with that iterable value.
+
+Example:
+
+``` Python
+for color in colors:
+  print("The color is:", color)
+
+```
+
 ## Essential methods
+
+Important!  Lists can be changed, whereas strings and other things you are used to can not. This means that a score of the list methods that you'll want to use will change the list underfoot.  Operationally, this means that you will not have an assignment statement for these methods.
+
+* `yourlist.append(thingtoaddattheend)`
+* `yourlist.sort()` there are other options you can put in the sort method, but none requeried.
+* `yourlist.pop(positionnumber)` used to remove a value out of a given position number in the list.
+
+# Dictionaries
+
+Do not think of these as special lists, because that will only bring you pain.
+
+Dictionaries are unordered collections for key:value pairs.  The key and values are required, and you can only have one and only one object as a key or value.  However, you can have collection objects (such as a list or other dictionaries) that can hold multiple values as your single object.
+
+You are allowed to have any data type as your key and value, but don't get too creative. It can make iterating over the contents annoying.
+
+Try not to have collection objects as your keys.  When dealing with data, you'll likely have a string or integer value as your key and a list or other dictionary as a value.
+
+`{key:value, key:value}` is a dictionary of length 2.  The keys must be unique within that dictionary but you can repeat values across many keys.  
+
+## Iteration
+
+A base for loop over a dictionary will give you the keys only.
+
+```
+myd = {'thing1':[1, 2], 'thing2': [3,4]}
+
+for item in myd:
+  print(item)
+
+```
+Will give you
+
+``` text
+thing1
+thing2
+```
+But you can use other methods to extract other stuff out.
+
+## Methods
+
+* yourdict.keys() gives you a dict_key (list like) object with all the keys.
+* yourdict.values() gives you a dict_values (list like) object with all the values.
