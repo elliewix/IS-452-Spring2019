@@ -1,1 +1,1 @@
-Hi
+Each of the week's lecture notes can be found above. The other files in this folder are files you will need for the various weeks in question. These will be collected in the Moodle site as well as here. 
