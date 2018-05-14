@@ -14,23 +14,23 @@ This is the repo for the IS452 AO class materials that I can make public, but ma
 
 | Week   | Topic                              | Sp 18 review status |
 |--------|------------------------------------| -------------------- |
-| 1      | [Intro](Lectures/Week-01-Intro.ipynb)                              | No |
-| 2      | [Numbers and Strings](Lectures/Week-02-ExpressionsAndLoops.ipynb)        | No |
-| 3      | [Lists and Slices](Lectures/Week-03-Accumulators.ipynb) | No |
-| 4      | [Files](Lectures/Week-04-ListAllTheThings.ipynb)                   | No |
-| 5      | [Functions](Lectures/Week-05-ReadingFiles.ipynb)                              | No |
-| 6      | [Decisions Structures A](Lectures/Week-06-Functions.ipynb)                          | No |
-| 7      | [Decision Structures B](Lectures/Week-07-BooleansPt1-if-else.ipynb)              | No |
-| 8      | [Data Collections and Dictionaries](Lectures/Week-08-BooleanRedo.ipynb)              | No |
-| 9      | [SQL](Lectures/Week-09-While&sentinelloops.ipynb)                        | No |
-| 10     | [X-Path](No class!)               | - |
-| 11     | [Processing XML](Lectures/Week-10-Dictionaries.ipynb)                       | No |
-| 12     | [Regular Expressions](Lectures/Week-11-SQL.ipynb)                                | No |
+| 1      | [Intro](SUMMER2018-Lectures/Week-01-Intro.ipynb)                              | No |
+| 2      | [Numbers and Strings](SUMMER2018-Lecturess/Week-02-ExpressionsAndLoops.ipynb)        | No |
+| 3      | [Lists and Slices](SUMMER2018-Lectures/Week-03-Accumulators.ipynb) | No |
+| 4      | [Files](SUMMER2018-Lectures/Week-04-ListAllTheThings.ipynb)                   | No |
+| 5      | [Functions](SUMMER2018-Lectures/Week-05-ReadingFiles.ipynb)                              | No |
+| 6      | [Decisions Structures A](SUMMER2018-Lectures/Week-06-Functions.ipynb)                          | No |
+| 7      | [Decision Structures B](SUMMER2018-Lectures/Week-07-BooleansPt1-if-else.ipynb)              | No |
+| 8      | [Data Collections and Dictionaries](SUMMER2018-Lectures/Week-08-BooleanRedo.ipynb)              | No |
+| 9      | [SQL](SUMMER2018-Lectures/Week-09-While&sentinelloops.ipynb)                        | No |
+| 10     | [X-Path](SUMMER2018-Lectures/Week-10-XPath-A.ipynb)               | - |
+| 11     | [Processing XML](Lectures/Week-11-XPath-B.ipynb)                       | No |
+| 12     | [Regular Expressions](Lectures/Week-12-RegEx.ipynb)                                | No |
 | Finals | Final Project Due
 
 
 ## Previous Runs
 
-* Spring 2018:
+* Spring 2018: [https://github.com/elliewix/IS-452-Spring2018](https://github.com/elliewix/IS-452-Spring2018)
 * Spring 2017: [https://github.com/elliewix/LIS452-Spring2017Lectures](https://github.com/elliewix/LIS452-Spring2017Lectures)
 * Fall 2017: [https://github.com/elliewix/IS-452-Fall2017](https://github.com/elliewix/IS-452-Fall2017)
