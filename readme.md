@@ -24,7 +24,7 @@ This is the repo for the IS452 A/AO class materials that I can make public, but 
 | 8      | [Decision Structures B](Lectures/Week-08-BooleanRedo.ipynb)              | Yes |
 | 9      | [While loops](Lectures/Week-09-While&sentinelloops.ipynb)                        | Yes |
 | 10     | Spring Break (No class!)               | - |
-| 11     | [Dictionaries](Lectures/Week-10-Dictionaries.ipynb)                       | No |
+| 11     | [Dictionaries](Lectures/Week-10-Dictionaries.ipynb)                       | Yes |
 | 12     | [SQL](Lectures/Week-11-SQL.ipynb)                                | Yes |
 | 13     | [XPath A](Lectures/Week-12-XPath-A.ipynb)                            | Yes |
 | 14     | [XPath B](Lectures/Week-13-XPath-B.ipynb)                            | Yes |
