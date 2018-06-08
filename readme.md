@@ -37,3 +37,4 @@ This is the repo for the IS452 A/AO class materials that I can make public, but 
 
 * Spring 2017: [https://github.com/elliewix/LIS452-Spring2017Lectures](https://github.com/elliewix/LIS452-Spring2017Lectures)
 * Fall 2017: [https://github.com/elliewix/IS-452-Fall2017](https://github.com/elliewix/IS-452-Fall2017)
+* Spring 2018: [https://github.com/elliewix/IS-452-Spring2018](https://github.com/elliewix/IS-452-Spring2018)
