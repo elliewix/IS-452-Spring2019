@@ -31,7 +31,7 @@ This is the repo for the IS452 A/AO class materials that I can make public, but 
 | 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | Yes |
 | 16     | Wrap up (we will have class)           | - |
 | Finals | No Class                               | - |
-
+😀
 
 ## Previous Runs
 
