@@ -1,0 +1,5 @@
+/html/body/div[@id='content']/table[2]/tbody/tr[1]/td[1]/a - gets the first linked entity.
+/html/body/div[@id='content']/table[2]/tbody/tr/td/a/@href - gets the links to the content.
+/html/body/div[2]/table[2]/tbody/tr/td/a/@href - Same as above. Might not be useful as it is referring to other stuff.
+//td/a[starts-with(., "#")] - will select the text that starts.
+//table[2]/tbody/tr/td/a - same as above.
