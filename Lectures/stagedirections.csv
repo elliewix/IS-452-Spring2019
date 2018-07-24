@@ -1,0 +1,32 @@
+speakerID,directionType,directionText
+#F-ham-mar,entrance,Enter the Ghost.
+#F-ham-hor,entrance,Enter Ghost againe.
+#F-ham-mar,exit,Exit Ghost.
+#F-ham-cla,entrance,Enter Voltemand and Cornelius.
+#F-ham-cla,exit,Exit Voltemand and Cornelius.
+#F-ham-lae,entrance,Enter Polonius.
+#F-ham-hor #F-ham-mar,business,within.
+#F-ham-pol,business,The Letter.
+#F-ham-pol,exit,Exit King & Queen.
+#F-ham-ham,entrance,Enter foure or fiue Players.
+#F-ham-ham,exit,Exit Players.
+#F-ham-ham,entrance,"Enter Polonius, Rosincrance, and Guildensterne."
+#F-ham-ham,exit,Exit Polonius.
+#F-ham-ger,business,Sleepes
+#F-ham-ham,entrance,Enter Lucianus.
+#F-ham-ham,entrance,Enter one with a Recorder.
+#F-ham-ham,MissingType,within.
+#F-ham-cla,entrance,Enter Ros. & Guild.
+#F-ham-cla,exit,Exit Gent.
+#F-ham-gmn,location,within.
+#F-ham-cla,entrance,Enter Rosincrane Rosincrance .
+#F-ham-cla,business,A noise within.
+#F-ham-sai,business,Reads the Letter.
+#F-ham-cla,entrance,Enter a Messenger.
+#F-ham-cla,exit,Exit Messenger
+#F-ham-clo.1,business,Sings.
+#F-ham-clo.1,business,sings.
+#F-ham-clo.1,business,sings.
+#F-ham-ham,entrance,"Enter King, Queen, Laertes, and a Coffin, with Lords attendant."
+#F-ham-lae,business,Leaps in the graue.
+#F-ham-ham,business,"March afarre off, and shout within."
