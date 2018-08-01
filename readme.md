@@ -14,20 +14,23 @@ This is the repo for the IS452 AO class materials that I can make public, but ma
 
 | Week   | Topic                              | Sp 18 review status |
 |--------|------------------------------------| -------------------- |
-| 1      | [Intro](SUMMER2018-Lectures/Week-01-Intro.ipynb)                              | No |
-| 2      | [Numbers and Strings](SUMMER2018-Lecturess/Week-02-ExpressionsAndLoops.ipynb)        | No |
-| 3      | [Lists and Slices](SUMMER2018-Lectures/Week-03-Accumulators.ipynb) | No |
-| 4      | [Files](SUMMER2018-Lectures/Week-04-ListAllTheThings.ipynb)                   | No |
-| 5      | [Functions](SUMMER2018-Lectures/Week-05-ReadingFiles.ipynb)                              | No |
-| 6      | [Decisions Structures A](SUMMER2018-Lectures/Week-06-Functions.ipynb)                          | No |
-| 7      | [Decision Structures B](SUMMER2018-Lectures/Week-07-BooleansPt1-if-else.ipynb)              | No |
-| 8      | [Data Collections and Dictionaries](SUMMER2018-Lectures/Week-08-BooleanRedo.ipynb)              | No |
-| 9      | [SQL](SUMMER2018-Lectures/Week-09-While&sentinelloops.ipynb)                        | No |
-| 10     | [X-Path](SUMMER2018-Lectures/Week-10-XPath-A.ipynb)               | - |
-| 11     | [Processing XML](Lectures/Week-11-XPath-B.ipynb)                       | No |
-| 12     | [Regular Expressions](Lectures/Week-12-RegEx.ipynb)                                | No |
-| Finals | Final Project Due
-
+| 1      | [Intro](Lectures/Week-01-Intro.ipynb)                              | Yes |
+| 2      | [Basic Programming and Loops](Lectures/Week-02-ExpressionsAndLoops.ipynb)        | Yes |
+| 3      | [Numbers, Strings, and Accumulators](Lectures/Week-03-Accumulators.ipynb) | Yes |
+| 4      | [Lists and slides](Lectures/Week-04-ListAllTheThings.ipynb)                   | Yes |
+| 5      | [Files](Lectures/Week-05-ReadingFiles.ipynb)                              | Yes |
+| 6      | [Functions](Lectures/Week-06-Functions.ipynb)                          | Yes |
+| 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)              | Yes |
+| 8      | [Decision Structures B](Lectures/Week-08-BooleanRedo.ipynb)              | Yes |
+| 9      | [While loops](Lectures/Week-09-While&sentinelloops.ipynb)                        | Yes |
+| 10     | Spring Break (No class!)               | - |
+| 11     | [Dictionaries](Lectures/Week-10-Dictionaries.ipynb)                       | Yes |
+| 12     | [SQL](Lectures/Week-11-SQL.ipynb)                                | Yes |
+| 13     | [XPath A](Lectures/Week-12-XPath-A.ipynb)                            | Yes |
+| 14     | [XPath B](Lectures/Week-13-XPath-B.ipynb)                            | Yes |
+| 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | Yes |
+| 16     | Wrap up (we will have class)           | - |
+| Finals | No Class                               | - |
 
 ## Previous Runs
 
