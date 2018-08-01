@@ -1,0 +1,266 @@
+===============
+Illinois Data Bank
+Datasets Report, generated 2017-09-13 by wickes1
+Query URL: https://databank.illinois.edu/datasets?sort_by=sort_updated_desc&download=now
+===============
+
+
+Kozuch, Laura; Walker, Karen; Marquardt, William (2017): Modern sinistral whelk spire angles, genus Busycon. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-2031816_V1
+Downloads: 9 (2017-08-30 to 2017-09-13 )
+-----
+
+Park, Jungsik; Le, Brian; Sklenar, Joseph; Chern, Gia-wei; Watts, Justin; Schiffer, Peter (2017): Magnetic response of brickwork artificial spin ice. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1528275_V1
+Funder: U.S. Department of Energy (DOE), Grant: DE-SC0010778
+Downloads: 10 (2017-09-08 to 2017-09-13 )
+-----
+
+Kozuch, Laura; Walker, Karen; Marquardt, William (2017): Modern sinistral whelk spire angles, genus Busycon . University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-2031816_V2
+Downloads: 6 (2017-09-06 to 2017-09-13 )
+-----
+
+Christensen, Sarah; Molloy, Erin K.; Vachaspati, Pranjal; Warnow, Tandy (2017): Datasets from the study: Optimal completion of incomplete gene trees in polynomial time using OCTAL. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-8402610_V1
+Funder: U.S. National Science Foundation (NSF), Grant: CCF-1535977
+Funder: U.S. National Science Foundation (NSF), Grant: DGE-1144245
+Downloads: 47 (2017-06-15 to 2017-09-13 )
+-----
+
+Zhang, Qian; Li, Chunyan (2016): Model dataset for the Wax Lake delta. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9511904_V1
+Downloads: 99 (2016-12-18 to 2017-09-13 )
+-----
+
+Zhang, Qian; Li, Chunyan (2017): Meterology and ocean data collected at LSU WAVCIS Lab. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-2436375_V1
+Downloads: 3 (2017-12-12 to 2017-09-13 )
+-----
+
+Zhang, Qian; Chunyan, Li; Braud, Dewitt (2016): LIDAR data for the Wax Lake delta. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-3764213_V1
+Downloads: 30 (2016-12-12 to 2017-09-13 )
+-----
+
+Zhang, Qian; Li, Chunyan (2016): Bathymetry data of the Wax Lake delta (late 2012). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1001307_V1
+Downloads: 42 (2016-12-12 to 2017-09-13 )
+-----
+
+Zhang, Qian; Li, Chunyan (2016): Bathymetry data of the Wax Lake delta (2012-12-01). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4810873_V1
+Downloads: 93 (2016-12-12 to 2017-09-13 )
+-----
+
+Zhang, Qian (2016): Public agency data of the Wax Lake delta. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4871125_V1
+Downloads: 31 (2016-12-12 to 2017-09-13 )
+-----
+
+Zhang, Qian; Li, Chunyan (2016): Current data of the Wax Lake delta. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1752285_V1
+Downloads: 50 (2016-12-12 to 2017-09-13 )
+-----
+
+Schiffer, Peter; Le, Brian L. (2017): Magnetotransport measurements of connected kagome artificial spin ice in armchair and zigzag configurations. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1859347_V1
+Funder: U.S. Department of Energy (DOE), Grant: DE-SC0010778
+Downloads: 12 (2017-08-11 to 2017-09-13 )
+-----
+
+Fallaw, Colleen (2017): After the migration to ads. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0623872_V1
+Downloads: 0 (2017-08-21 to 2017-09-13 )
+-----
+
+Bond, Tami (2017): Data from: Plume-exit modeling to determine cloud condensation nuclei activity of aerosols from residential biofuel combustion. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6485436_V1
+Downloads: 99 (2017-07-29 to 2017-09-13 )
+-----
+
+Scheidler, Andrew; Kinnett-Hopkins, Dominique; Learmonth, Yvonne; Motl, Robert; Lopez-Ortiz, Citlali (2017): Targeted ballet program mitigates ataxia and improves agility in moderate-to-advanced multiple sclerosis. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6858418_V1
+Funder: National Multiple Sclerosis Society, Grant: PP3418
+Downloads: 931 (2017-06-28 to 2017-09-13 )
+-----
+
+Haselhorst, Derek S.; Tcheng, David K.; Moreno, J. Enrique ; Punyasena, Surangi W. (2017):  Model results from Haselhorst et al. (2017) Ecological Informatics: Table S3. Mean slope response for each predictive model used in the ecoinformatic analysis. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-7821127_V1
+Funder: University of Illinois Campus Research Board , Grant: 09236
+Funder: University of Illinois Campus Research Board , Grant: 11239
+Funder: University of Illinois Center for Latin American and Caribbean Studies Tinker Travel Grant 
+Funder: U.S. National Science Foundation (NSF), Grant: NSF EF-1137396 
+Downloads: 28 (2017-06-16 to 2017-09-13 )
+-----
+
+Haselhorst, Derek S.; Tcheng, David K.; Moreno, J. Enrique ; Punyasena, Surangi W. (2017): Pollen and climate data from Haselhorst et al. (2017) Ecological Informatics: Table S2. Raw pollen counts and climatic data for each seasonal sampling period. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-8658584_V1
+Funder: University of Illinois Campus Research Board , Grant: 09236
+Funder: University of Illinois Campus Research Board , Grant: 11239
+Funder: University of Illinois Center for Latin American and Caribbean Studies Tinker Travel Grant 
+Funder: U.S. National Science Foundation (NSF), Grant: NSF EF-1137396 
+Downloads: 26 (2017-06-16 to 2017-09-13 )
+-----
+
+Haselhorst, Derek S; Tcheng, David K. ; Moreno, J. Enrique ; Punyasena, Surangi W. (2017): Pollen types from Haselhorst et al. (2017) Ecological Informatics: Table S1. Pollen types identified in the BCI and PNSL pollen rain data sets. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-2059727_V1
+Funder: University of Illinois Campus Research Board , Grant: 09236 
+Funder: University of Illinois Campus Research Board , Grant: 11239
+Funder: University of Illinois Center for Latin American and Caribbean Studies Tinker Travel Grant 
+Funder: U.S. National Science Foundation (NSF), Grant: NSF EF-1137396 
+Downloads: 28 (2017-06-16 to 2017-09-13 )
+-----
+
+Mainz, Vera (2017): List of Chinese Students Receiving a Ph.D. in Chemistry between 1905 and 1964. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0064468_V2
+Downloads: 40 (2017-06-01 to 2017-09-13 )
+-----
+
+Mainz, Vera (2017): List of Chinese Students Receiving a Ph.D. in Chemistry between 1905 and 1964. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0064468_V1
+Downloads: 68 (2017-06-01 to 2017-09-13 )
+-----
+
+Freedman, Ryan (2017): Smartphone recorded driving sensor data: Indianapolis International Airport to Urbana, IL. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4650469_V1
+Downloads: 18 (2017-05-01 to 2017-09-13 )
+-----
+
+Merrill, Loren; Naylor, Madeleine; Dalimonte, Merria; McLaughlin, Shaun; Stewart, Tara; Grindstaff, Jennifer (2017): Dataset: early-life immune activation impacts sexual signals and their associations. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4021048_V1
+Funder: U.S. National Institutes of Health (NIH), Grant: 1R15HD066378-01
+Downloads: 41 (2017-05-31 to 2017-09-13 )
+-----
+
+Donovan, Brian; Mori, Alec; Agrawal, Nimit; Meng, Yalan; Lee, Jong; Work, Daniel (2016): New York City Hourly Traffic Estimates (2010-2013). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4900670_V1
+Funder: U.S. National Science Foundation (NSF), Grant: CNS-1308842
+Downloads: 516 (2016-06-23 to 2017-09-13 )
+-----
+
+Nelson, Kirsten; Collins, Scott; Sass, Greg; Wahl, David (2017): Data from: A response-surface examination of competition and facilitation between native and invasive fishes. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9706842_V1
+Downloads: 72 (2017-05-22 to 2017-09-13 )
+-----
+
+Mickalide, Harry; Fraebel, David T.; Kuehn, Seppe (2017): Sample video and supplementary code for cell tracking. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4912922_V2
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 0822613
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 1430124
+Downloads: 82 (2017-03-07 to 2017-09-13 )
+-----
+
+Mickalide, Harry; Fraebel, David T.; Kuehn, Seppe (2017): Sample video for cell tracking code. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4912922_V1
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 0822613
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 1430124
+Downloads: 37 (2017-03-07 to 2017-09-13 )
+-----
+
+Donovan, Brian; Work, Dan (2016): New York City Taxi Trip Data (2010-2013). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/J8PN93H8
+Downloads: 1634 (2016-05-19 to 2017-09-13 )
+-----
+
+Wickes, Elizabeth (2016): Version values for DataCite dataset records. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4803136_V1
+Downloads: 99 (2016-06-23 to 2017-09-13 )
+-----
+
+Tracy, Daniel G. (2016): Library Publishing Services: Survey Data on User Studies Practices. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1968634_V1
+Downloads: 110 (2016-05-26 to 2017-09-13 )
+-----
+
+Thapa, Sita; Schroeder, Nathan; Patel, Jayna; Reuter-Carlson, Ursula (2017): Data from: Embryogenesis in the plant parasitic nematode Heterodera glycines is independent of host-derived stimulation. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6946735_V2
+Downloads: 312 (2017-03-08 to 2017-09-13 )
+-----
+
+Reiley, Bryan (2017): Does flooding effect the apparent survival and body condition of a ground foraging migrant passerine?. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0341890_V1
+Downloads: 132 (2017-03-02 to 2017-09-13 )
+-----
+
+Freedman, Ryan (2017):  Smartphone recorded driving sensor data: Leesburg, VA to Indianapolis, IN. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-5975383_V1
+Downloads: 78 (2017-02-28 to 2017-09-13 )
+-----
+
+Brown, Patrick (2017): Sorghum bicolor GBS: diversity study II. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-7570206_V1
+Downloads: 46 (2017-02-23 to 2017-09-13 )
+-----
+
+Brown, Patrick (2017): Sorghum bicolor GBS: recombination study. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6534803_V1
+Downloads: 140 (2017-02-21 to 2017-09-13 )
+-----
+
+Brown, Patrick (2017): Sorghum bicolor GBS: diversity study. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-2204122_V1
+Downloads: 84 (2017-02-21 to 2017-09-13 )
+-----
+
+Thapa, Sita; Schroeder, Nathan; Patel, Jayna; Reuter-Carlson, Ursula (2017): Data from: Embryogenesis in the plant parasitic nematode Heterodera glycines is independent of host-derived stimulation. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6946735_V1
+Downloads: 424 (2017-01-06 to 2017-09-13 )
+-----
+
+Wickes, Elizabeth; Nakamura, Katia (2016): Supporting data processing scripts and example data for Peru AIDData analysis. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-7860393_V1
+Downloads: 269 (2016-12-20 to 2017-09-13 )
+-----
+
+Hahn, James (2016): API analysis of the Minrva mobile app (May 2015 – December 2015). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-5495131_V1
+Downloads: 212 (2016-12-19 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 12IL011-12IL013. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4475836_V1
+Downloads: 237 (2016-12-14 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 11IL005. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0094019_V1
+Downloads: 98 (2016-12-14 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 14IL008,16IL003,16IL007. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6648634_V1
+Downloads: 207 (2016-12-14 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 13IL014,13IL015,13IL022. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0475732_V1
+Downloads: 193 (2016-12-14 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 13IL004,13IL011,13IL012. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6530647_V1
+Downloads: 200 (2016-12-14 to 2017-09-13 )
+-----
+
+Patrick, Brown (2016): 12IL015-12IL023. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-3520220_V1
+Downloads: 403 (2016-12-14 to 2017-09-13 )
+-----
+
+Brown, Patrick (2016): 12IL003-12IL007. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-8561435_V1
+Downloads: 283 (2016-12-14 to 2017-09-13 )
+-----
+
+Fraebel, David T.; Kuehn, Seppe (2016): Sequencing data for motility selection experiments. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-3958294_V1
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 0822613
+Funder: U.S. National Science Foundation (NSF), Grant: PHY 1430124
+Downloads: 336 (2016-12-13 to 2017-09-13 )
+-----
+
+Gross, Alexander Jones; Murthy, Dhiraj; Varshney, Lav R. (2016): Tweet volumes in American cities. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9276024_V1
+Downloads: 55 (2016-12-02 to 2017-09-13 )
+-----
+
+Spyreas, Greg; Zaya, David N.; Pearse, Ian (2016): Long-term Trends in Midwestern Milkweeds and their Relevance for Monarchs. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-5072223_V1
+Funder: Illinois Department of Natural Resources (IDNR)
+Downloads: 69 (2016-11-30 to 2017-09-13 )
+-----
+
+Marshak, Stephen; Domrois, Stefanie; Abert, Curtis; Larson, Timothy (2016): DEM of the Great Unconformity, USA cratonic platform. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-7546972_V1
+Downloads: 163 (2016-11-28 to 2017-09-13 )
+-----
+
+Fegley, Brent D. (2016): Datasets for modeling collaborative formation and collaborative "success". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/J81Z429G
+Funder: U.S. National Institutes of Health (NIH), Grant: NIA P01AG039347
+Funder: U.S. National Science Foundation (NSF), Grant: 0965341
+Downloads: 132 (2016-06-06 to 2017-09-13 )
+-----
+
+Nguyen, Nam-phuong; Nute, Mike; Mirarab, Siavash; Warnow, Tandy (2016): HIPPI Dataset. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6795126_V1
+Funder: U.S. National Science Foundation (NSF), Grant: DBI-1461364
+Funder: U.S. National Science Foundation (NSF), Grant: ABI-1458652
+Funder: U.S. National Science Foundation (NSF), Grant: III:AF:1513629
+Funder: University of Illinois at Urbana-Champaign
+Downloads: 51 (2016-08-16 to 2017-09-13 )
+-----
+
+Wilkin, John (2016): CRMS Renewals by Year. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-0710473_V1
+Downloads: 70 (2016-08-18 to 2017-09-13 )
+-----
+
+Jin, Qiang; Hahn, James; Croll, Gretchen (2016): BIBFRAME Transformation Data. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1082638_V1
+Funder: University of Illinois Library Innovation Fund
+Downloads: 250 (2016-08-02 to 2017-09-13 )
+-----
+
+Clark, Lindsay V.; Dzyubenko, Elena; Dzyubenko, Nikolay; Bagmet, Larisa; Sabitov, Andrey; Chebukin, Pavel; Johnson, Douglas A.; Kjeldsen, Jens Bonderup; Petersen, Karen Koefoed; Jørgensen, Uffe; Yoo, Ji Hye; Heo, Kweon; Yu, Chang Yeon; Zhao, Hua; Jin, Xiaoli; Peng, Junhua; Yamada, Toshihiko; Sacks, Erik J. (2016): Data from: "Ecological characteristics and in situ genetic associations for yield-component traits of wild Miscanthus from eastern Russia". University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4084515_V1
+Funder: U.S. Department of Energy (DOE), Grant: DE-SC0006634
+Funder: U.S. Department of Energy (DOE), Grant: DE-SC0012379
+Funder: U.S. Department of Agriculture (USDA), Grant: Cooperative Agreement #59-1275-1-338
+Downloads: 913 (2016-07-22 to 2017-09-13 )
+-----
+
+Imker, Heidi (2016): Phylogenetic Analysis of the NRPS AmbE Condensation Domains for the L-2-amino-4-methoxy-trans-3-butenoic acid (AMB) Biosynthetic Pathway in Pseudomonas aeruginosa. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4602893_V1
+Downloads: 130 (2016-05-16 to 2017-09-13 )
+-----
+
+Wickes, Elizabeth (2016): Language values for DataCite dataset records. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-1065549_V1
+Downloads: 118 (2016-06-23 to 2017-09-13 )
+-----

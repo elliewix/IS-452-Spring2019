@@ -1,14 +1,14 @@
-# IS 452: Foundations of Information Processing - Spring 2018 
+# IS 452: Foundations of Information Processing - Summer 2018 
 
-A public repo for the my Spring 2018 IS452 lecture notes
+A public repo for the Summer 2018 IS452 lecture notes
 
 ## Status
 
-This was imported from the Fall and the content will be reviewed before class in a Just In Time fashion.
+This was imported from the Spring and the content will be reviewed before class in a Just-In-Time fashion.
 
 ## About
 
-This is the repo for the IS452 A/AO class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  This doesn't contain everything for the class.
+This is the repo for the IS452 AO class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  This doesn't contain everything for the class.
 
 ## Schedule
 
@@ -31,9 +31,9 @@ This is the repo for the IS452 A/AO class materials that I can make public, but 
 | 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | Yes |
 | 16     | Wrap up (we will have class)           | - |
 | Finals | No Class                               | - |
-😀
 
 ## Previous Runs
 
+* Spring 2018: [https://github.com/elliewix/IS-452-Spring2018](https://github.com/elliewix/IS-452-Spring2018)
 * Spring 2017: [https://github.com/elliewix/LIS452-Spring2017Lectures](https://github.com/elliewix/LIS452-Spring2017Lectures)
 * Fall 2017: [https://github.com/elliewix/IS-452-Fall2017](https://github.com/elliewix/IS-452-Fall2017)
