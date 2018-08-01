@@ -1,4 +1,4 @@
-# IS 452AG/AO Spring 2018 Syllabus
+# IS 452AO Fall 2018 Syllabus
 ## Instructor information
 
 * Instructor: Elizabeth Wickes
@@ -26,7 +26,7 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Hold stronger & more productive conversations with developers
 * Act as a bridge between programmers and non-programmers (this is a false binary, but I'll deal with it for the sake of brevity)
-* Feel more confident to engage with developers and other IT staff with technical jargon and detail
+* Confidently engage with developers and other IT staff with technical jargon and detail
 * Detect vendor hand waving and other crap
 * Evaluate the usefulness and applicability of potential technical tools (e.g. an open source command line tool) 
 
@@ -41,22 +41,18 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 ## Class Time, Office Hours, and Lab Time
 
 * Regular class times: 
-  * AG and AO students are welcome to both sections with notice
-  * AG: 9:00am-11:50pm Wednesdays in 12 Information Science Building, 11-11:50 will be a mandatory lab time
-  * AO: 5:30-7:30pm Tuesdays online in BBC (AG students will need to request a link)
-  * (Optional) Lab/office hours open to AG and AO:
-* 7:30-8:30pm Tuesdays online in the class session room (check the class moodle page for the link, this is different than the BBC drop in room)
-  * Look for the IS452 break out room (but I might be in a private break out room with another student, so look around if you don’t see me). 
-  * The Tuesday evening ONLINE office hours from 7:30-8:30 (the hour directly after the AO class) will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room.
+  * Live session attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
+  * AO: 5:30-7:30pm Mondays online in BBC (a guest link will be made available for A and B sections)
+  * (Optional) Lab/office hours open to AO:  7:30-8:30 in BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
 * Make an appointment to meet with me:
-  * Book from https://wickes1.mybookafy.com.  See the moodle with more information on booking these appointments.
+  * Book from https://wickes1.mybookafy.com.  See the moodle with more information on booking these appointments.  SUBJECT TO CHANGE.
 
 ## Required textbooks
 
-1.	Zelle, John. (2010). Python Programming: an introduction to computer science.  (SECOND edition).  Franklin, Beedle & Associates Inc.
+1.	Zelle, John.  Python Programming: an introduction to computer science.  (THIRD edition).  Franklin, Beedle & Associates Inc.
 2.	Python for Everyone (http://pythonlearn.com/book.php and https://books.trinket.io/pfe/index.html) This a free book available online or for purchase if you want a physical copy.  These chapters are optional and meant to provide additional information and context if desired.
 
-The SECOND edition of the Zelle book is required.  Neither of the other editions will match up with the content and homework problems and therefore will not be supported or accommodated. You are expected to have consistent access to the textbook. Do not use any of the pirated PDF versions because they do not match up with the print edition in ways that will impact your grade.
+The Third edition of the Zelle book is required.  Neither of the other editions will match up with the content and homework problems and therefore will not be supported or accommodated. You are expected to have consistent access to the textbook. Do not use any of the pirated PDF versions because they do not match up with the print edition in ways that will impact your grade.
 Computing expectations
 
 I expect all students to be capable of the following computing activities.
