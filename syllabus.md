@@ -279,12 +279,19 @@ These extra credit points will only be applied to your homework grades, and only
 
 Refer to the specific section about extentions and late submissions for each type of assignment.
 
-In geneneral: 
+In general: 
 
 There is an 8 hour grace period for assignment submission.  All assignments are due at 11:55pm, so any submissions turned in before 8am the next day will not receive a late penalty.  The calendar in moodle can look confusing if you set a due date early in the morning.
 
 
 The weekly homeworks have formal extention support, while the midterm, essays, and final do not.  Extensions for these items will not be granted except for truly exceptional situations or where described in the specific policy for that assignment.
+
+## What is a personal crisis?
+
+Being behind on homework or just needing more time is not a personal crisis.  This category involves house fires/floods, medical emergencies for yourself or a dependent, a death in your family, etc.  Any student experiencing something like this is encouraged to reach out to their advisor and the student affairs team.  You are welcome to contact me if you feel comfortable explaining the situation. 
+
+
+left off here
 
 ## Attendance
 
