@@ -290,12 +290,16 @@ The weekly homeworks have formal extention support, while the midterm, essays, a
 
 Being behind on homework or just needing more time is not a personal crisis.  This category involves house fires/floods, medical emergencies for yourself or a dependent, a death in your family, etc.  Any student experiencing something like this is encouraged to reach out to their advisor and the student affairs team.  You are welcome to contact me if you feel comfortable explaining the situation. 
 
-
-left off here
-
 ## Attendance
 
-Students are allowed to miss two class sessions:  one for “life happens” situations (illness, family events, etc.) and one for pre-planned reasons such as conference attendance, job interviews, professional events, etc.  Students needing to miss more than these two class sessions must contact the instructor to discuss arrangements. 
+Attendance to live class is required.  On campus section students are required to attend on campus sessions and online section students are required to attend the synchronous session.  These are university and college level policies and are not open for negotiation.
+
+Students are allowed to miss two class sessions:  
+
+* one for “life happens” situations (illness, family events, etc.)
+* and one for pre-planned reasons such as conference attendance, job interviews, professional events, etc.  
+
+Students needing to miss more than these two class sessions must contact the instructor to discuss arrangements. 
 
 * “Life happens” procedures:  students must notify the instructor ASAP before or after missing a class for a “life happens” event.  You are not required to report or provide any personal information to use this day.  Just say that you are using a “life happens” day.  You will still be expected to watch the recorded class and the homework must still be turned in before the solutions are posted to qualify for full credit.  
 * Documented events procedures: students must request approval to miss class before the class is missed. You will still be expected to watch the recorded class and all late homework policy rules still stand. 
