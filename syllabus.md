@@ -45,7 +45,7 @@ The following are more 'educational wins' rather than formal learning goals.  Of
   * AO: 5:30-7:30pm Mondays online in BBC (a guest link will be made available for A and B sections)
   * (Optional) Lab/office hours open to AO:  7:30-8:30 in BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
 * Make an appointment to meet with me:
-  * Book from https://wickes1.mybookafy.com.  See the moodle with more information on booking these appointments.  SUBJECT TO CHANGE.
+  * Appointment booking information is in the class moodle.
 
 ## Required textbooks
 
