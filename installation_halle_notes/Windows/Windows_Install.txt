@@ -1,0 +1,28 @@
+Anaconda
+- Follow link
+- Make sure your correct system is selected
+- Click big green 3.6 button
+- Do not need to sign up for Anaconda Cheat Sheets
+- Installer will pop up, leading you through the installation process
+    - Under advanced options, you will select first box despite it getting angry (See elizabeth instructions for
+    screenshot)
+- Takes a while to install
+- It will ask about Microsoft Visual Code. You do not need to download this. (If you do have this already downloaded
+    do not use)
+- Open command prompt (screenshot); type "python" (without quotes) and enter. Make sure it says "Python 3.6" underneath
+- Screenshot of prompt
+
+PyCharm
+- Follow link
+- Make sure correct system is selected
+- Download
+- See screenshot for configuration (configuration depends on your operating system)
+- Accept terms and conditions
+- Select student or instructor (screenshot)
+- Create new project (screenshot)
+    - (2 screenshots, a before and after)
+    - Select location where you want project
+    - Make sure it says version 3.6
+    - Make available to all projects?
+- Open test file in new project
+    - multiple screenshots
