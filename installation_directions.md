@@ -44,7 +44,7 @@ After Anaconda has finished, restart your computer.  Now we’ll test that every
 
 Windows users:  open up your Command Prompt application (in your system search bar, type in ‘cmd’ and an application will open up.  Youtube has videos explaining this more if you need it.
 
-![](installation_halle_notes/Windows/Find_cmd.png)
+![](installation_halle_notes/Windows/Find_cmd.png | width=50)
 
 Mac users:  open your Terminal application. Either search via spotlight for ‘terminal’ or open it from Applications -> Utilities -> Terminal.  
 
