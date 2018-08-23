@@ -23,7 +23,7 @@ Check the Installation Problems discussion board for similar problems.  Post abo
 
 ### Download
 
-From here:  [https://www.continuum.io/download](https://www.continuum.io/download)
+From here:  [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ![](installation_pics/1-anacondaver.png)
 
@@ -38,7 +38,7 @@ Anaconda will install Python and a lot of other background utilities that we’l
 
 ### Give it a test
 
-After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using Anaconda the entire class, but it’ll be somewhat invisible to you.
+After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using Anaconda (you will see it in Pycharm as, "CONDA") the entire class, but it’ll be somewhat invisible to you.
 
 ### Step 1: Open your command line
 
