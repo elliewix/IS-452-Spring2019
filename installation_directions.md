@@ -23,7 +23,7 @@ Check the Installation Problems discussion board for similar problems.  Post abo
 
 ### Download
 
-From here:  [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+From here:  [https://www.continuum.io/download](https://www.continuum.io/download)
 
 ![](installation_pics/1-anacondaver.png)
 
