@@ -25,7 +25,7 @@ Check the Installation Problems discussion board for similar problems.  Post abo
 
 From here:  [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
-![](installation_pics/1-anacondaver.png)
+![](installation_halle_notes/Mac/Mac_Anaconda.png)
 
 Download the Graphical Installer for Python 3.6 for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.6. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.
 
@@ -44,6 +44,8 @@ After Anaconda has finished, restart your computer.  Now we’ll test that every
 
 Windows users:  open up your Command Prompt application (in your system search bar, type in ‘cmd’ and an application will open up.  Youtube has videos explaining this more if you need it.
 
+![](installation_halle_notes/Windows/Find_cmd.png)
+
 Mac users:  open your Terminal application. Either search via spotlight for ‘terminal’ or open it from Applications -> Utilities -> Terminal.  
 
 ### Step 2:  Attempt to launch Python
@@ -57,10 +59,10 @@ You should see something like this if it worked.  Note that at the top it says �
 Just close and quit the program after this.  Everything has worked and you can move on to installing PyCharm Education edition.
 
 Mac:
-![](installation_pics/3-terminaltest.png)
+![](installation_halle_notes/Mac/Terminal.png)
 
 Windows:
-![](installation_pics/4-cmdtest.PNG)
+![](installation_halle_notes/Windows/cmd_Prompt.png)
 
 ## Install PyCharm Education edition
 
@@ -83,21 +85,21 @@ When you open it for the first time it’ll ask you what sort of project you wan
 On the next screen you’ll want change a few things:
 
 1.	Select the Location where you want your project folder to exist on your computer.  I suggest putting it in your Documents folder.
-2.	Change Untitled to IS452. (you’ll see that my screen shot is old with LIS)
+2.	Change Untitled to IS452.
 	* You may also change where this folder is saved on your computer, just be sure that it is somewhere you can find so that you can upload files.
 3.	For interpreter, this is where it gets weird.  Click the drop down:
 	* Windows users, the drop down should show something like C:\Anaconda\python.exe.  Which you should select.  
 	* Mac users, you might see several.  You want the one that has anaconda in the file path.  E.g. ~/anaconda/bin/python.  You may not see a number, but you want to choose the one that has Python 3.6.x (where x is whatever number you saw earlier during testing). Do not choose one that states Python 2.6 or 2.7.  you may need to click the … button and manually add where your ~/anaconda/bin/python exists. If you have a brand new installation, you likely have a 2.6, 2.7, and ~/anaconda/bin/python option.  Select the anaconda one.  If you select 2.6 or 2.7 you’ll have to go back and fix it, so this does matter.
 4. You should have something that looks like the screenshot below, but yours will look different and that’s fine so long as the versions are correct which we will test in the next step.
 
-![](installation_pics/7-hookinganaconda.png)
+![](installation_halle_notes/Mac/New_Project_After.png)
 
 ### Step 3:  Make a python file and try running it
 
 Don’t worry, you don’t need to know python yet. We’re just testing to see if everything is working.
 
 1. Right click on the name of your project on the left.  Select New -> Python file.
-	* ![](installation_pics/8-newpythonfile.png)
+	* ![](installation_halle_notes/Making_py_File2.png)
 2. Name is something like ‘testing’.
 	* ![](installation_pics/9-nameit.png)
 3. You’ll now see an empty file in the main part of the PyCharm window.
@@ -112,4 +114,4 @@ Don’t worry, you don’t need to know python yet. We’re just testing to see 
 	* ![](installation_pics/12-errorcode.png)
 10.  Try to run the code.
 11.  You should see an error!
-	 * ![](installation_pics/13-erroroutput.png)
+	 * ![](installation_halle_notes/Test2_Error.png)
