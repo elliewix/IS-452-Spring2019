@@ -7,7 +7,7 @@ You’ll be installing two things:
 1.	Anaconda (for Python)
 2.	PyCharm education edition (for working with Python)
 
-Here is a screencast of me going through the installation process on a mac: https://mediaspace.illinois.edu/media/Python+installation+for+IS452/1_5zdddgk3
+Here is a screencast of me going through the installation process on a mac: https://mediaspace.illinois.edu/media/Python+installation+for+IS452/1_5zdddgk3  This is a bit old at this point, so your interface and menu will look a little different.  The general process remains the same.
 
 If you have already been using Python contact me before following these directions.  Continuing on may blow away your previous package links, etc. If you’ve not installed anything related to python on your computer you don’t need to worry.
 
