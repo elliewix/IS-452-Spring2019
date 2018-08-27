@@ -84,7 +84,7 @@ Here is the points breakdown:
 | Midterm       | 1     | 80      | 80 (16%)        | 100     | 100 (16%)       |
 | Essays        | 2     | 30      | 60 (12%)        | 40      | 80 (13%)        |
 | Final project | 1     | 100     | 100 (20%)       | 130     | 130 (20%)       |
-| **Totals**    |       |         | **500**         |         | **635**         |
+| **Totals**    |       |         | **500**         |         | **635**         | 
 
 These weights are carefully constructed such that your weekly homework will be important for your grade, but points lost on the weekly homework will not destroy your grade if you have a bad week or regularly loose some points.  So long as you average about a 75% on the homework you can expect to maintain an A range.
 
@@ -237,7 +237,7 @@ There are three essay topics available at different times throughout the semeste
 
 The essays will use a flexible due date system, as described below.  I have given a proposed due date for each of them, and you may choose to move that due date by request. 
 
-You are allowed to change the due date by one week on either end.  Once you have given me a new due date in that range, you will be held to those dates.  Due date changes are due Saturday September 23 by midnight. All default due dates will be locked in after this date if you have not put in a request to have them changed.  
+You are allowed to change the due date by one week on either end.  Once you have given me a new due date in that range, you will be held to those dates.  Due date changes are due Saturday September 23 by 11:55pm. All default due dates will be locked in after this date if you have not put in a request to have them changed.  
 
 We will change your due dates in moodle to what you requested, but you can consider the email thread being the official declaration.  
 
