@@ -198,8 +198,8 @@ Including your netid in your file names is really helpful.  You will submit your
 
 The midterm has two associated due dates:
 
-* Midterm check in date:  Saturday October 14
-* Midterm due date:  Saturday October 28
+* Midterm check in date:  Saturday October 13
+* Midterm due date:  Saturday October 27
 
 No due date extensions will be granted for either midterm due date unless you are experiencing a personal crisis.  A 10% late penalty for up to 2 days after the due date, and the assignment will be marked as 0 after that. 
 
@@ -237,15 +237,15 @@ There are three essay topics available at different times throughout the semeste
 
 The essays will use a flexible due date system, as described below.  I have given a proposed due date for each of them, and you may choose to move that due date by request. 
 
-You are allowed to change the due date by one week on either end.  Once you have given me a new due date in that range, you will be held to those dates.  Due date changes are due Saturday September 23 by midnight. All default due dates will be locked in after this date if you have not put in a request to have them changed.  
+You are allowed to change the due date by one week on either end.  Once you have given me a new due date in that range, you will be held to those dates.  Due date changes are due Saturday September 22 by midnight. All default due dates will be locked in after this date if you have not put in a request to have them changed.  
 
 We will change your due dates in moodle to what you requested, but you can consider the email thread being the official declaration.  
 
 Here are the default due dates:
 
-* Topic 1 default due date: Saturday of week 5 (Saturday, September 30)
-* Topic 2 default due date: Saturday of week 10 (Saturday, November 4)
-* Topic 3 default due date: Saturday of week 14 (Saturday, November 25)
+* Topic 1 default due date: Saturday of week 5 (Saturday, September 29)
+* Topic 2 default due date: Saturday of week 10 (Saturday, November 3)
+* Topic 3 default due date: Saturday of week 14 (Saturday, November 24)
 
 The 11:55 pm with 8am grace period that the weekly homeworks will be in use for this.
 
