@@ -2,6 +2,8 @@
 
 A public repo for the Summer 2018 IS452 lecture notes
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/elliewix/IS-452-Fall2018/master)
+
 ## Status
 
 This was imported from the Spring and the content will be reviewed before class in a Just-In-Time fashion.
