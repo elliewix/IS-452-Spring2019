@@ -7,7 +7,7 @@ You’ll be installing two things:
 1.	Anaconda (for Python)
 2.	PyCharm education edition (for working with Python)
 
-Here is a screencast of me going through the installation process on a mac: https://mediaspace.illinois.edu/media/Python+installation+for+IS452/1_5zdddgk3
+Here is a screencast of me going through the installation process on a mac: https://mediaspace.illinois.edu/media/Python+installation+for+IS452/1_5zdddgk3  This is a bit old at this point, so your interface and menu will look a little different.  The general process remains the same.
 
 If you have already been using Python contact me before following these directions.  Continuing on may blow away your previous package links, etc. If you’ve not installed anything related to python on your computer you don’t need to worry.
 
@@ -23,7 +23,7 @@ Check the Installation Problems discussion board for similar problems.  Post abo
 
 ### Download
 
-From here:  [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+From here:  [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ![](installation_halle_notes/Mac/Mac_Anaconda.png)
 
@@ -38,7 +38,7 @@ Anaconda will install Python and a lot of other background utilities that we’l
 
 ### Give it a test
 
-After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using Anaconda the entire class, but it’ll be somewhat invisible to you.
+After Anaconda has finished, restart your computer.  Now we’ll test that everything worked.  You’ll be using Anaconda (you will see it in Pycharm as, "CONDA") the entire class, but it’ll be somewhat invisible to you.
 
 ### Step 1: Open your command line
 
