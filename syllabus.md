@@ -245,7 +245,7 @@ Here are the default due dates:
 
 * Topic 1 default due date: Saturday of week 5 (Saturday, September 29)
 * Topic 2 default due date: Saturday of week 10 (Saturday, November 3)
-* Topic 3 default due date: Saturday of week 14 (Saturday, November 24)
+* Topic 3 default due date: Saturday of week 15 (Saturday, December 1)
 
 The 11:55 pm with 8am grace period that the weekly homeworks will be in use for this.
 
