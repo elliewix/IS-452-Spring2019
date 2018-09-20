@@ -20,8 +20,8 @@ This is the repo for the IS452 AO class materials that I can make public, but ma
 | 2      | [Basic Programming and Loops](Lectures/Week-02-ExpressionsAndLoops.ipynb)        | 
 | 3      | [Numbers, Strings, and Accumulators](Lectures/Week-03-Accumulators.ipynb) |
 | 4      | [Lists and slices](Lectures/Week-04-ListAllTheThings.ipynb)                   |
-| 5      | [Files](Lectures/Week-05-ReadingFiles.ipynb)                              | 
-| 6      | [Functions](Lectures/Week-06-Functions.ipynb)                          |
+| 5      | [Functions](Lectures/Week-05-Functions.ipynb)                          |
+| 6      | [Files](Lectures/Week-06-ReadingFiles.ipynb)                              | 
 | 7      | [Decision Structures A](Lectures/Week-07-BooleansPt1-if-else.ipynb)              |
 | 8      | [Decision Structures B](Lectures/Week-08-BooleanRedo.ipynb)              |
 | 9      | [Dictionaries](Lectures/Week-10-Dictionaries.ipynb)                       |
