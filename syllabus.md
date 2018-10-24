@@ -141,6 +141,10 @@ Here are the required elements for any homework submission:
 * Python files (these are the py files that PyCharm creates), one for each problem
   * Some HW problems will build off each other, and you can combine them into one py file. Just clearly mark where the code is for each problem.
   * Example file name: wickes1_pe4.py, wickes1_pe4+8.py, etc.
+  
+#### Do the programs in the homework need to be running or complete for submission?
+
+Nope! Submit what you have and we will award partial credit. We have written our rubrics for these problems to optimise our ability to award partial credit in these situations. 
 
 #### Due date polices and procedures (only for weekly homeworks)
 
@@ -157,11 +161,11 @@ Submission after Saturday but before end of day monday will result in a 10% dedu
 
 This Saturday due date has been chosen and retained based on input from 452 students and is purposeful so you have Sunday to start work on the next week’s materials. I’m fully aware that this does put the pressure on during the week, but it is important that you start early in the week and work on things in little bits and pieces.  You should not wait until Saturday morning to begin the homework. Ideally, you will be working on the homework over the course of the week and only need a little time on Saturday to finalize. Obviously, you won’t be able to pull this off every single, week, so please take advantage of the extension option.
 
-Case by case exceptions to this Saturday schedule have been made for students with extreme and documented work schedules that will interfere with the saturday due date.  (for example, 12 hour shifts on saturdays).  Please be in contact if you are in this position.
+Case by case exceptions to this Saturday schedule have been made for students with extreme and documented work/family schedules that will interfere with the Saturday due date.  (for example, 12 hour shifts on saturdays or daycare problems).  Please be in contact if you are in this position or would like to discuss this policy.
 
 #### Extension requests
 
-**Each student will be given a pool of 3 extensions to use for the weekly homeworks over the course of the semester.**  These give you until end of day Wednesday to submit that previous week’s homework without penalty.  You do not need to ask for approval to use one of these, but you must inform us that you are using it.  
+**Each student will be given a pool of 3 extensions to use for the weekly homeworks over the course of the semester.**  These give you until end of day Wednesday to submit that previous week’s homework without penalty.  You do not need to ask for approval to use one of these, but you must inform us that you are using it before end of day the Monday after it was due.  An extension request is still considered 'used' even if you do not submit anything for that homework.  Please be in contact with your professor and TA if something is going on that will prevent you from completing your homework within the extension period.  The homework pace for this class is fast, so time beyond Wednesday will begin eating into your time to complete your next week's homework.
 
 **Extension requests are due by end of day the Monday after the homework due date.**
 
