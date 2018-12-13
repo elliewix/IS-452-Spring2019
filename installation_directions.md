@@ -115,3 +115,4 @@ Don’t worry, you don’t need to know python yet. We’re just testing to see 
 10.  Try to run the code.
 11.  You should see an error!
 	 * ![](installation_halle_notes/Test2_Error.png)
+12. That error means that all is right in the world and you have python three.  Change it to `print("hello world")` to see glorious output. You may also continue to have python tell you things or curse, as one might want to do for a while.
