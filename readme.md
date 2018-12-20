@@ -1,16 +1,16 @@
-# IS 452: Foundations of Information Processing - Summer 2018 
+# IS 452: Foundations of Information Processing - Spring 2019 
 
-A public repo for the Summer 2018 IS452 lecture notes
+A public repo for the Spring 2019 IS452 lecture notes
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/elliewix/IS-452-Fall2018/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/elliewix/IS-452-Fall2018/master) (this is currently for the Fall 18 run until I fix the binder thing)
 
 ## Status
 
-This was imported from the Spring and the content will be reviewed before class in a Just-In-Time fashion.
+These are just about stable at this point.  Lecture content is reviewed during that week for class, and updated as needed.  But no major revisons are planned at this time.
 
 ## About
 
-This is the repo for the IS452 AO class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  This doesn't contain everything for the class.
+This is the repo for the IS452 class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  This doesn't contain everything for the class.
 
 ## Schedule
 
@@ -36,6 +36,7 @@ This is the repo for the IS452 AO class materials that I can make public, but ma
 
 ## Previous Runs
 
+* Fall 2018:  [https://github.com/elliewix/IS-452-Fall2018](https://github.com/elliewix/IS-452-Fall2018)
 * Spring 2018: [https://github.com/elliewix/IS-452-Spring2018](https://github.com/elliewix/IS-452-Spring2018)
 * Fall 2017: [https://github.com/elliewix/IS-452-Fall2017](https://github.com/elliewix/IS-452-Fall2017)
 * Spring 2017: [https://github.com/elliewix/LIS452-Spring2017Lectures](https://github.com/elliewix/LIS452-Spring2017Lectures)
