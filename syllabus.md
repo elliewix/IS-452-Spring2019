@@ -1,4 +1,4 @@
-# IS 452AO Fall 2018 Syllabus
+# IS 452AO 2019 Syllabus
 ## Instructor information
 
 * Instructor: Elizabeth Wickes
@@ -42,8 +42,8 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * Live session attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
-  * AO: 5:30-7:30pm Mondays online in BBC (a guest link will be made available for A and B sections)
-  * (Optional) Lab/office hours open to AO:  7:30-8:30 in BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
+  * AO: 6:00 - 8:00pm Tuesdays online in BBC (a guest link will be made available for A and B sections)
+  * (Optional) Lab/office hours open to AO:  8:00-9:00pm in out BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
 * Make an appointment to meet with me:
   * Appointment booking information is in the class moodle.
 
@@ -161,7 +161,13 @@ Submission after Saturday but before end of day monday will result in a 10% dedu
 
 This Saturday due date has been chosen and retained based on input from 452 students and is purposeful so you have Sunday to start work on the next week’s materials. I’m fully aware that this does put the pressure on during the week, but it is important that you start early in the week and work on things in little bits and pieces.  You should not wait until Saturday morning to begin the homework. Ideally, you will be working on the homework over the course of the week and only need a little time on Saturday to finalize. Obviously, you won’t be able to pull this off every single, week, so please take advantage of the extension option.
 
-Case by case exceptions to this Saturday schedule have been made for students with extreme and documented work/family schedules that will interfere with the Saturday due date.  (for example, 12 hour shifts on saturdays or daycare problems).  Please be in contact if you are in this position or would like to discuss this policy.
+#### The Sunday exception
+
+This Saturday due date doesn't always work well for people with job, family, or commute committments that hit on Saturdays.
+
+Case by case exceptions to this Saturday schedule have been made for students with extreme and documented work/family schedules that will interfere with the Saturday due date.  (for example, 12 hour shifts on saturdays or daycare problems). Students in this position have had their homework due dates changed to Sundays of each week after discussion with the professor.
+
+Please be in contact if you are in this position or would like to discuss this policy.
 
 #### Extension requests
 
