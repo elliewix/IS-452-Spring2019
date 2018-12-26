@@ -6,18 +6,20 @@ This shift system is designed to support (not guarentee) a reply back to you wit
 
 Email procedure:  when crafting the email, send it to your professor AND the designated shift person.  Sometime this is just your professor, but it may also be both of us.  That's fine!
 
+Shift system schedules will be determined during the first week of class once the entire instruction team has time to meet.  For now, consider your professor and the primary TA to be your main points of contact.
+
 | | Mon | Tue | Wed | Thur | Fri | Sat | Sun | 
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-| 9am-12pm | Elizabeth | Elizabeth | Ankush | Elizabeth | Elizabeth | Shaneen | Elizabeth | 
-| 12pm-5pm | Nick | Nick | Nick | Elizabeth | Elizabeth | Elizabeth | Halle | 
-| 5pm-9pm | Nick | Shaneen | Ankush | Shaneen | Halle | Halle | Ankush | 
+| 9am-12pm |  |  |  |  |  |  |  | 
+| 12pm-5pm |  |  |  |  |  |  |  | 
+| 5pm-9pm |  |  |  |  |  |  |  | 
 
 If just your professor is listed for the shift, you can also use this to identify the backup person.  This is only for the event that you know or are told that your professor is offline during their scheduled shift.
 
 |   | Mon | Tue | Wed | Thur | Fri | Sat | Sun| 
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------| 
-| 9am-12pm | Ankush | Shaneen | - | Nick | Nick | - | Nick| 
-| 12pm-5pm | Elizabeth | None | Elizabeth | Nick | Nick | Halle | -| 
-| 5pm-9pm | Need | - | - | - | - | - | -| 
+| 9am-12pm |  |  |  |  |  |  | | 
+| 12pm-5pm |  |  |  |  |  |  | | 
+| 5pm-9pm |  |  |  |  |  |  | | 
 
 The 452 instruction team is keeping track of availability and sub activities, so send your emails out using this shift system and we will be taking care of who should be replying.
