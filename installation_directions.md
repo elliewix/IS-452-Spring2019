@@ -27,7 +27,9 @@ From here:  [https://www.anaconda.com/download/](https://www.anaconda.com/downlo
 
 ![](installation_halle_notes/Mac/Mac_Anaconda.png)
 
-Download the Graphical Installer for Python 3.6 for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.6. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.
+Download the Graphical Installer for Python 3.7 for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.7. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.  
+
+Installing or using Python 3.6 is also fine, if you already have that.
 
 Anaconda will install Python and a lot of other background utilities that we’ll be using.  Anaconda isn’t an application that you’ll be opening and directly interacting with, but you will still be using what it installed.
 
@@ -52,9 +54,9 @@ Mac users:  open your Terminal application. Either search via spotlight for ‘t
 
 Mac/Windows: Within your command line application, type in ‘python’ (without quotes) and press return.  
 Windows users:  you should *not* get an error that it doesn’t know what Python is.
-Mac users:  it should state it is Python 3.6 and not Python 2.7.
+Mac users:  it should state it is Python 3.7 or Python 3.6 and not Python 2.7. 
 
-You should see something like this if it worked.  Note that at the top it says “Python 3.6.1” and not “Python 2.7…”  Your installation may have a different third number, e.g. “Python 3.6.2” or something else, and that’s fine.  So long as it starts with 3.6 we’re good.
+You should see something like this if it worked.  Note that at the top it says “Python 3.7.1” and not “Python 2.7...”  Your installation may have a different third number, e.g. “Python 3.6.2” or something else, and that’s fine.  So long as it starts with a 3, we’re good.
 
 Just close and quit the program after this.  Everything has worked and you can move on to installing PyCharm Education edition.
 
