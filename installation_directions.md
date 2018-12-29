@@ -31,6 +31,8 @@ Download the Graphical Installer for Python 3.7 for your operating system.  The 
 
 Installing or using Python 3.6 is also fine, if you already have that.
 
+**At this point I haven't updated the screenshots for 3.7, so you'll still see 3.6 all over.  Just replace it in your brain and truck ahead.**
+
 Anaconda will install Python and a lot of other background utilities that we’ll be using.  Anaconda isn’t an application that you’ll be opening and directly interacting with, but you will still be using what it installed.
 
 * Mac users:  all the defaults should be fine, continue on to the testing.
@@ -60,6 +62,8 @@ You should see something like this if it worked.  Note that at the top it says �
 
 Just close and quit the program after this.  Everything has worked and you can move on to installing PyCharm Education edition.
 
+(screenshots not updated for python 3.7)
+
 Mac:
 ![](installation_halle_notes/Mac/Terminal.png)
 
@@ -75,6 +79,8 @@ There are three editions of PyCharm.  I recommend starting with the education ed
 Available here:  https://www.jetbrains.com/pycharm-edu/download/
 
 Download and install the appropriate version for your operating system.  Just use the newest version available, don’t worry about the numbers.
+
+(screenshot not updated for python 3.7)
 
 ![](installation_pics/5-pycharmdl.png)
 
