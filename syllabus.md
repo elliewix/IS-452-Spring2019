@@ -229,9 +229,7 @@ All topics necessary to complete the midterm will be presented before this check
 
 #### Essay topics and content
 
-These essays are designed to have you explore and learn more about the history of computing.  The topics will range from historical comparisons of specific programming languages to a historical summary of a tool or technology.  These essays are expected to be written like short papers using a formal voice, so you should use proper formatting and citations.  These are not informal reaction essays or personal stories.  You may use any citation style you’d like, so long as it is consistent.  
-
-I don’t expect that you’ll be able to find scholarly published works (such as journal articles) for these essays, but I do expect that you use authoritative sources & authors.  Ask if you are unsure about any sources! The University Library can also help you navigate the research process.  We’ll talk more about this in class.
+These essays are designed to have you explore and learn more about the history of computing and community tools.  You may use any citation style you’d like, so long as it is consistent.  You should take these prompts seriously and take a pretty formal approach, even though some of them do ask for a reaction or narrative analysis.  This means you can include personal experiences, but I want a serious depth of discussion.
 
 Writing skill is not being graded, but these need to be written seriously and be readable.  Those new to academic writing are strongly encouraged to make use of the writing centers on campus for help.  Elizabeth is also willing to review these before submission and can give you quick feedback.
 
